@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Louis Robert Ribleza
+- 👋 Hi, I’m
 - 👀 I’m interested in numbers and data analytics using MS Excel and now Tableau
 - 🌱 I’m currently learning the advanced data analytics
 - 💞️ I’m looking to collaborate on data visualization
-- 📫 You may contact me via my email: louisriblea@gmail.com
-- 👀 To see my recent project, please go through [AW_Project Dashboard.pptx](https://github.com/Azelbir01/Azelbir01/files/11176563/AW_Project.Dashboard.pptx)
+- 📫 You may contact me 
 
 
 <!---
